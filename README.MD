@@ -35,5 +35,6 @@ A vivid imagination!
 We encourage learners to submit photos or videos of their projects. Outstanding entries may be featured on @NyotaSpaceworks.
 
 🌍 About NyotaLabs
+
 NyotaLabs is the educational branch of Nyota Spaceworks, an African-led space innovation company committed to empowering future African scientists, engineers, and space explorers.
 
