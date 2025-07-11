@@ -12,8 +12,10 @@
 
 #Languages: English
 
-🌌 Mission Summary
+🌌 Mission Summary:
+
 In this hands-on activity, learners step into the role of a young African space engineer. Their mission: to design and build a Martian base that can keep astronauts alive on the Red Planet.
+
 
 Using simple, everyday materials and guided prompts, students will explore concepts in space science, engineering, and problem-solving — all while imagining themselves as future leaders in space exploration.
 
