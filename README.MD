@@ -2,7 +2,7 @@
 
 #Title: Mission Mars: Build Africa’s First Martian Base
 
-#Creator: Charity Silah, Founder – Nyota Spaceworks
+#Creator: Charity Silah, Nyota Spaceworks
 
 #Ages: 10–14 (but flexible for curious minds)
 
